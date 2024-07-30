@@ -4,7 +4,6 @@
   },
   "forwardPorts": [5173],
   "postCreateCommand": "bun install",
-  "postStartCommand": "bun run dev",
   "customizations": {
     "vscode": {
       "extensions": [
